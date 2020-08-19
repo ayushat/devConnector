@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ayush123:ayush123@devconnecter.gsxxz.mongodb.net/DevConnectDB?retryWrites=true&w=majority",
+  "jwtSecret": "myjsontoken",
+  "githubClientId": "4cde016e7e3b7213953d",
+  "githubClientSecret": "10d5e759c374b362180eac1c9e35a9e79ca15639"
+}
